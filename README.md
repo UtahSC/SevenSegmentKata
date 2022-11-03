@@ -43,3 +43,17 @@ Limit the width of your output to 10 digits, so 12345678901 will be rendered as:
   |
   |
 ```
+
+## Step 4: Scaling
+
+Supplement your function with a way to scale up the size of a digit.
+For example, an 8 at scale 3 would look like:
+```
+ ___ 
+|   |
+|   |
+|___|
+|   |
+|   |
+|___|
+```
